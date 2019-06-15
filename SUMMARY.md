@@ -1,6 +1,4 @@
-# Summary
+# Table of contents
 
-* [Introduction](README.md)
-* [模块](mo-kuai.md)
-* [例子](li-zi.md)
+* [Initial page](README.md)
 
